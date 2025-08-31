@@ -1,5 +1,17 @@
+- Introduction
+- Understanding Bash
+- Check version
+- Sample Log Files
+- Basic Linux Commands
+- Creating Your First Script
+- Variables & Arrays
+- Loops & Iteration
+- File Operations & Conditionals
+
+
 # BashScripting
 Shell scripting can transform tasks that take 30-45 minutes of manual  work into automated processes that run in seconds
+
 #### To check Bash version
 ```shell
  echo "Hello, Bash scripting!"
