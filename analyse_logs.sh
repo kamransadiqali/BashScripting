@@ -41,6 +41,7 @@ done
 
 echo -e "\nLog analysis completed and report saved in: $REPORT_FILE"
 
+# MANUAL Log Analysis Workflow
 # echo -e "\n### searching ERROR logs in application logs ###"
 # # Step 2: Search for errors in application log
 # grep "ERROR" "$LOG_DIR"/"$APP_LOG_FILE"
