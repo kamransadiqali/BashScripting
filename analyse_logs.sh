@@ -38,7 +38,7 @@ for LOG_FILE in $LOG_FILES; do
  fi
     done 
 done 
-
+ 
 echo -e "\nLog analysis completed and report saved in: $REPORT_FILE"
 
 # MANUAL Log Analysis Workflow
