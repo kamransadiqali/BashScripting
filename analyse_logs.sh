@@ -37,7 +37,7 @@ for LOG_FILE in $LOG_FILES; do
     echo -e "\n ⚠️ Action required: too many "$PATTERN" errors in log file "$LOG_FILE" "
  fi
     done 
-done
+done 
 
 echo -e "\nLog analysis completed and report saved in: $REPORT_FILE"
 
