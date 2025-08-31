@@ -1,6 +1,6 @@
 # BashScripting
 Shell scripting can transform tasks that take 30-45 minutes of manual  work into automated processes that run in seconds
-### To check Bash version
+#### To check Bash version
 ```shell
  echo "Hello, Bash scripting!"
  which bash
@@ -17,4 +17,5 @@ touch system.log
 touch logs/application.log
 touch logs/system.log
 ```
+### Basic Linux Commands
 
